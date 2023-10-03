@@ -1,0 +1,12 @@
+header{
+    background-color: gray;
+}
+main{
+    background-color: aliceblue;
+}
+footer{
+    background-color: grey;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
