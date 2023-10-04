@@ -1,7 +1,7 @@
 /*Google font*/
 @import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Lato:ital,wght@0,400;0,700;1,300;1,400;1,700&display=swap');
 
-  /*Asterisk to override browser default*/
+/*Asterisk to override browser default*/
 * {
     /*Code from Love Running project*/
     padding: 0;
@@ -9,16 +9,16 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     font-family: 'Lato', sans-serif;
     min-height: 100vh;
     display: flex;
-     flex-direction: column;
-    
+    flex-direction: column;
+
 }
 
-header{
-    background-color:white;
+header {
+    background-color: white;
     color: aqua;
     padding: 1rem;
     position: fixed;
@@ -26,45 +26,54 @@ header{
     text-transform: uppercase;
     border-bottom: 2px solid rgb(198, 194, 194);
 }
-header > a{
+
+header>a {
     text-decoration: none;
 }
-h1{
-    font-size: 35px;
+
+h1 {
+    font-size: 25px;
     font-family: 'Bakbak One', cursive;
     color: grey;
     letter-spacing: 2px;
 }
-nav ul a{
+
+nav ul a {
     text-decoration: none;
     color: grey;
 }
-nav{
-    top: 100%;
+
+nav {
+    margin-top: 1em;
 }
 
-#links >li{
+#links>li {
+    font-size: 15px;
+    font-weight: 90%;
     list-style-type: none;
     letter-spacing: 2px;
     margin-bottom: 1em;
+    display: inline-block;
+    margin-right: 1em;
 }
 
-main{
-    background-color:grey;
+main {
+    background-color: grey;
     /*Code from love running*/
     flex: 1 0 auto;
     margin-top: 47px;
 }
+
 /*Style for footer*/
 footer {
-    background-color:white;
+    background-color: white;
     width: 100%;
     letter-spacing: 2px;
     padding: 15px;
     text-transform: capitalize;
     color: black;
     font-size: 18px;
-    font-weight:90%;
+    font-weight: 90%;
 }
 
 footer a {
