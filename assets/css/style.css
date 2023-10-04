@@ -85,6 +85,38 @@ main {
 
 }
 
+/*Sign up style*/
+#learn-more {
+    text-align: center;
+}
+
+fieldset {
+    color: grey;
+    border: none;
+    text-transform: capitalize;
+    margin-bottom: 1em;
+}
+
+legend {
+    margin-bottom: 1em;
+    letter-spacing: 2px;
+}
+
+#form {
+    background-color: rgba(210, 207, 207, 0.7);
+    padding: 25px;
+}
+
+.details {
+    padding: 5px 15px;
+    border-radius: 15%;
+    margin-bottom: 1rem;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
 /*Style for footer*/
 footer {
     background-color: white;
