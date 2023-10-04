@@ -36,6 +36,7 @@ h1 {
     font-family: 'Bakbak One', cursive;
     color: grey;
     letter-spacing: 2px;
+    text-transform: capitalize;
 }
 
 h2,
@@ -120,6 +121,12 @@ legend {
     padding-right: 10px;
     padding-left: 10px;
 }
+
+/*See other pages section*/
+#img-h2 {
+    background: url('../images/The\ earth.jpg') no-repeat center/;
+}
+
 
 /*Style for footer*/
 footer {
