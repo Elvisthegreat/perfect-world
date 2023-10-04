@@ -94,7 +94,6 @@ fieldset {
     color: grey;
     border: none;
     text-transform: capitalize;
-    margin-bottom: 1em;
 }
 
 legend {
@@ -113,8 +112,13 @@ legend {
     margin-bottom: 1rem;
 }
 
-label {
-    margin-bottom: 5px;
+#submit {
+    background-color: green;
+    color: white;
+    font-size: large;
+    margin: 5px 25px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 /*Style for footer*/
@@ -124,7 +128,7 @@ footer {
     letter-spacing: 2px;
     padding: 10px;
     text-transform: capitalize;
-    color: black;
+    color: grey;
     font-size: 18px;
     font-weight: 90%;
 }
@@ -132,4 +136,5 @@ footer {
 footer a {
     letter-spacing: 20px;
     font-size: larger;
+    color: grey;
 }
