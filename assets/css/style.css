@@ -123,10 +123,10 @@ legend {
 }
 
 /*See other pages section*/
-#img-h2 {
-    background: url('../images/The\ earth.jpg') no-repeat center/;
+#img {
+    background: url('../images/The\ earth.jpg') no-repeat center / cover;
+    height: 130px;
 }
-
 
 /*Style for footer*/
 footer {
