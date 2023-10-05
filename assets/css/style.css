@@ -162,7 +162,7 @@ legend {
 
 /*Loved one's image*/
 #loved-one {
-    background: url('../images/dead\ once\'s.jpg') no-repeat center / cover;
+    background: url('../images/love-one\'s.jpg') no-repeat center / cover;
     height: 158px;
     width: 100%;
     padding: 2px;
@@ -212,13 +212,16 @@ footer a {
         height: 60vh;
     }
 
+    #back-to-home {
+        text-align: center;
+    }
+
     .img {
         height: 60vh;
     }
 
     #loved-one {
-        height: 100vh;
-        width: 90%;
+        height: 60vh;
 
     }
 
