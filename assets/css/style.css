@@ -198,4 +198,27 @@ footer a {
 }
 
 /*Media query for laeger screen*/
-@media screen and (min-width: 768px) {}
+@media screen and (min-width: 768px) {
+    nav {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    #question {
+        text-align: center;
+    }
+
+    footer {
+        display: flex;
+        justify-content: center;
+    }
+
+    footer>span {
+        margin-right: 3em;
+    }
+
+    footer>a {
+        margin-right: 4em;
+    }
+
+}
