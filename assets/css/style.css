@@ -156,7 +156,12 @@ legend {
 }
 
 /*Loved one's image*/
-#loved-one
+#loved-one {
+    background: url('../images/dead\ once\'s.jpg') no-repeat center / cover;
+    height: 158px;
+    width: 100%;
+    padding: 2px;
+}
 
 /*Style for footer*/
 footer {
