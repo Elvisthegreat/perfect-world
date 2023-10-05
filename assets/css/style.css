@@ -77,12 +77,12 @@ main {
     margin-top: 182px;
 }
 
+/*Home image*/
 #img-paradise {
     background: url('../images/A\ perfect\ world.jpg') no-repeat center /cover;
     height: 400px;
     width: 100%;
     left: 5px;
-    padding-left: 5px;
 
 }
 
@@ -123,9 +123,32 @@ legend {
 }
 
 /*See other pages section*/
-#img {
+.other-pages {
+    padding: 0 1rem;
+}
+
+.img {
     background: url('../images/The\ earth.jpg') no-repeat center / cover;
-    height: 130px;
+    height: 158px;
+    display: flex;
+}
+
+.ul {
+    padding: 4px;
+}
+
+.inner-text {
+    background-color: rgb(113, 112, 112, .6);
+    color: rgb(255, 255, 255);
+    align-self: flex-end;
+}
+
+/*Suffering image*/
+#suffering {
+    background: url('../images/suffering.jpg') no-repeat center / cover;
+    height: 158px;
+    width: 100%;
+    padding: 2px;
 }
 
 /*Style for footer*/
