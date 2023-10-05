@@ -208,6 +208,20 @@ footer a {
         text-align: center;
     }
 
+    #suffering {
+        height: 60vh;
+    }
+
+    .img {
+        height: 60vh;
+    }
+
+    #loved-one {
+        height: 100vh;
+        width: 90%;
+
+    }
+
     footer {
         display: flex;
         justify-content: center;
