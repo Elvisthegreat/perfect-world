@@ -40,13 +40,18 @@ h1 {
 }
 
 h2,
-h3 {
+h3,
+h4 {
     font-size: 19px;
     font-family: 'Bakbak One', cursive;
     color: grey;
     letter-spacing: 2px;
     padding: 1rem;
     text-transform: capitalize;
+}
+
+h4 {
+    font-size: 17px;
 }
 
 
@@ -163,6 +168,17 @@ legend {
     padding: 2px;
 }
 
+#text-paragraph {
+    color: grey;
+    font-size: 15px;
+    padding: 5px;
+    margin-bottom: 1em;
+}
+
+strong {
+    background-color: greenyellow;
+}
+
 /*Style for footer*/
 footer {
     background-color: white;
@@ -180,3 +196,6 @@ footer a {
     font-size: larger;
     color: grey;
 }
+
+/*Media query for laeger screen*/
+@media screen and (min-width: 768px) {}
