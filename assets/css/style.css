@@ -36,6 +36,7 @@ h1 {
     font-size: 25px;
     font-family: 'Bakbak One', cursive;
     color: grey;
+    /*All letter-spacing from love running*/
     letter-spacing: 2px;
     text-transform: capitalize;
 }
@@ -71,6 +72,7 @@ nav {
     list-style-type: none;
     letter-spacing: 2px;
     margin-bottom: 1em;
+    /*inline-block research carried out from google*/
     display: inline-block;
     margin-right: 1em;
 }
