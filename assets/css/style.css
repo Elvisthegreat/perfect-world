@@ -134,6 +134,7 @@ legend {
 }
 
 .img {
+    /*Image from jwg.org*/
     background: url('../images/The\ earth.jpg') no-repeat center / cover;
     height: 158px;
     padding: 2px;
@@ -154,6 +155,7 @@ legend {
 }
 
 /*Suffering image*/
+/*Image from jwg.org*/
 #suffering {
     background: url('../images/suffering.jpg') no-repeat center / cover;
     height: 158px;
@@ -162,6 +164,7 @@ legend {
 }
 
 /*Loved one's image*/
+/*Image from jwg.org*/
 #loved-one {
     background: url('../images/love-one\'s.jpg') no-repeat center / cover;
     height: 158px;
