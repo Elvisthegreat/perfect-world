@@ -9,6 +9,7 @@
     box-sizing: border-box;
 }
 
+/*Code from Love Running project*/
 body {
     min-height: 100vh;
     display: flex;
@@ -199,6 +200,10 @@ footer a {
 
 /*Media query for laeger screen*/
 @media screen and (min-width: 768px) {
+    main {
+        margin-top: 120px;
+    }
+
     nav {
         display: flex;
         justify-content: flex-end;
@@ -236,6 +241,55 @@ footer a {
 
     footer>a {
         margin-right: 4em;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+
+    #suffering {
+        height: 60vh;
+    }
+
+    #back-to-home {
+        text-align: center;
+    }
+
+    .img {
+        height: 60vh;
+    }
+
+    #loved-one {
+        height: 60vh;
+
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    #img-paradise {
+        min-height: 100vh;
+    }
+
+    #suffering {
+        height: 100vh;
+    }
+
+    #back-to-home {
+        text-align: center;
+    }
+
+    .img {
+        height: 100vh;
+    }
+
+    #loved-one {
+        height: 100vh;
+
+    }
+
+    nav ul a:hover {
+        border-bottom: 1px solid grey;
     }
 
 }
