@@ -297,4 +297,8 @@ footer a {
         border-bottom: 1px solid grey;
     }
 
+    footer>a:hover {
+        color: chocolate;
+    }
+
 }
