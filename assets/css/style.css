@@ -68,7 +68,7 @@ nav {
 
 #links>li {
     font-size: 15px;
-    font-weight: 90%;
+    font-weight: 90;
     list-style-type: none;
     letter-spacing: 2px;
     margin-bottom: 1em;
@@ -110,7 +110,7 @@ legend {
     letter-spacing: 2px;
 }
 
-#form {
+#form-bg {
     background-color: rgba(210, 207, 207, 0.7);
     padding: 25px;
 }
@@ -194,7 +194,7 @@ footer {
     text-transform: capitalize;
     color: grey;
     font-size: 18px;
-    font-weight: 90%;
+    font-weight: 90;
 }
 
 footer a {
