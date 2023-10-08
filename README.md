@@ -38,7 +38,7 @@ This page is created to bring hope and brightness to people about the future wor
   ### Bugs and Fixed bugs
   * Discovered that when i deploy my project to Github the learn more section for internal link wasn't working, that was because and #hash tag was missing
   * I tested my HTML code and found that there was no link in the form element which result to an error
-  * I tested my css codes in the validator jigsaw.3.org and found that there was an error in my codes, that a font-weight was having percentega
+  * I tested my css codes in the validator jigsaw.3.org and found that there was an error in my codes, that a font-weight was having percenage
   ### Validator Testing
   * HTML 
     * Tested my HTML with the W3C Markup Validation Service and found no more error
