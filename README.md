@@ -9,6 +9,7 @@ This page is created to bring hope and brightness to people about the future wor
  * Navigation
     * This holds the Home, See other pages & Learn More, when click on it takes you to each section of the website
  * The See Other Pages section
+    ![Screenshot (306)](https://github.com/Elvisthegreat/perfect-world/assets/141064225/5f12ddc4-8d32-46e5-935d-bd2145e95ea0)
     * That section gives you more understand about the page to see more photos and question people ask today
     * To bring hope to the broken and lost one's
  * The Learn More Section
