@@ -27,7 +27,7 @@ This page is created to bring hope and brightness to people about the future wor
   ![Screenshot (298)](https://github.com/Elvisthegreat/perfect-world/assets/141064225/ec083de1-a037-49f1-955a-96fd2a53b613)
   ### Media
      * The images used for this project where taken from jwg.library
-     * The code inline-block for the nav element where taken from a carried searchee from google
+     * The code inline-block for the nav element where taken from a carried search from google
   ### Credit
      * Main content to take surplus spaces the was taken from the Love Running walkthrough
   ### Testing
@@ -37,7 +37,7 @@ This page is created to bring hope and brightness to people about the future wor
   ### Bugs and Fixed bugs
   * Discovered that when i deploy my project to Github the learn more section for internal link wasn't working, that was because and #hash tag was missing
   * I tested my HTML code and found that there was no link in the form element which result to an error
-  * I tested my css codes in the validator jigsaw.3.org and found that there was an error in my codes, that a font-weight was having percentegae
+  * I tested my css codes in the validator jigsaw.3.org and found that there was an error in my codes, that a font-weight was having percentega
   ### Validator Testing
   * HTML 
     * Tested my HTML with the W3C Markup Validation Service and found no more error
