@@ -30,6 +30,7 @@ This page is created to bring hope and brightness to people about the future wor
      * The code inline-block for the nav element where taken from a carried search from google
   ### Credit
      * Main content to take surplus spaces the was taken from the Love Running walkthrough
+     * The asterisk code was from the Love Running walkthrough
   ### Testing
   * The website as been tested and the result shows that the website is responsive from smaller screen to larger screen size.
  * Confirmed that all text and words in the page are all easy and readable
