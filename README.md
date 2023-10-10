@@ -1,5 +1,4 @@
 # A Perfect World Is Near
-Welcome to my website called A Perfect World Is Near.  <https://elvisthegreat.github.io/perfect-world/>
 This page is created to bring hope and brightness to people about the future world that is new and near. For today we are living in a broken world full of pain, sorrow and hate...but a new world is near.You can sign up to learn more by filling in your form and one of jwg.org member will get back to you to teach you more about the New World that is Near! No money needed, no payment, it all free.
 ## Features
  * Header
@@ -18,17 +17,3 @@ This page is created to bring hope and brightness to people about the future wor
 * HTML5
 * CSS
   ### Testing
-  * The website as been tested and the result shows that the website is responsive from smaller screen to larger screen size.
- * Confirmed that all text and words in the page are all easy and readable
- * Tested that there is no broken link found in the page
-  ### Bugs and Fixed bugs
-  * Discovered that when i deploy my project to Github the learn more section for internal link wasn't working, that was because and #hash tag was missing
-  * I tested my HTML code and found that there was no link in the form element which result to an error
-  * I tested my css codes in the validator jigsaw.3.org and found that there was an error in my codes, that a font-weight was having percentegae
-  ### Validator Testing
-  * HTML 
-    * Tested my HTML with the W3C Markup Validation Service and found no more error
-* CSS
-   * Tested my HTML with the W3C CSS Validation Service and found no more error
-* Accessibility
-   * Confirmed with the devtool lighthouse that the performance and accessibilty are good, that the constrast with the background and text are readable.
