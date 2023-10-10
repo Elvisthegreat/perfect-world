@@ -87,47 +87,11 @@ main {
 
 /*Home image*/
 #img-paradise {
-    background: url('../images/A\ perfect\ world.jpg') no-repeat center /cover;
+    background: url('../images/a-perfect-world.jpg') no-repeat center /cover;
     height: 400px;
     width: 100%;
     left: 5px;
 
-}
-
-/*Sign up style*/
-#learn-more {
-    text-align: center;
-}
-
-fieldset {
-    color: grey;
-    border: none;
-    text-transform: capitalize;
-}
-
-legend {
-    margin-bottom: 1em;
-    letter-spacing: 2px;
-}
-
-#form-bg {
-    background-color: rgba(210, 207, 207, 0.7);
-    padding: 25px;
-}
-
-.details {
-    padding: 5px 15px;
-    border-radius: 15%;
-    margin-bottom: 1rem;
-}
-
-#submit {
-    background-color: green;
-    color: white;
-    font-size: large;
-    margin: 5px 25px;
-    padding-right: 10px;
-    padding-left: 10px;
 }
 
 /*See other pages section*/
@@ -137,7 +101,7 @@ legend {
 
 .img {
     /*Image from jwg.org*/
-    background: url('../images/The\ earth.jpg') no-repeat center / cover;
+    background: url('../images/the-earth.jpg') no-repeat center / cover;
     height: 158px;
     padding: 2px;
     display: flex;
@@ -183,6 +147,50 @@ legend {
 
 strong {
     background-color: greenyellow;
+}
+
+/*Sign up section*/
+#paradise-img-signup {
+    background: url('../images/paradise-signup.jpg') no-repeat center / cover;
+    height: 100vh;
+    left: 100vwx;
+}
+
+#learn-more {
+    text-align: center;
+}
+
+fieldset {
+    color: grey;
+    border: none;
+    text-transform: capitalize;
+}
+
+legend {
+    margin-bottom: 1em;
+    letter-spacing: 2px;
+}
+
+#form-bg {
+    background-color: rgba(41, 36, 36, 0.7);
+    padding: 25px;
+
+
+}
+
+.details {
+    padding: 5px 15px;
+    border-radius: 15%;
+    margin-bottom: 1rem;
+}
+
+#submit {
+    background-color: green;
+    color: white;
+    font-size: large;
+    margin: 5px 25px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 /*Style for footer*/
