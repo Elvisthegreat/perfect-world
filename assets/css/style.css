@@ -153,7 +153,14 @@ strong {
 #paradise-img-signup {
     background: url('../images/paradise-signup.jpg') no-repeat center / cover;
     height: 100vh;
-    left: 100vwx;
+    width: 100%;
+    padding: 10px;
+
+}
+
+#space-top {
+    padding-top: 45px;
+    color: #ffffff;
 }
 
 #learn-more {
@@ -161,27 +168,36 @@ strong {
 }
 
 fieldset {
-    color: grey;
+    color: rgb(255, 255, 255);
     border: none;
     text-transform: capitalize;
 }
 
+
+
 legend {
     margin-bottom: 1em;
     letter-spacing: 2px;
+    font-weight: 900;
 }
 
 #form-bg {
     background-color: rgba(41, 36, 36, 0.7);
-    padding: 25px;
-
-
+    height: 57vh;
+    padding-top: 25px;
+    margin-top: 25px;
 }
 
 .details {
     padding: 5px 15px;
-    border-radius: 15%;
+    border: 2px;
     margin-bottom: 1rem;
+}
+
+#first-name,
+#last-name,
+#email-address {
+    margin-top: 1rem;
 }
 
 #submit {
