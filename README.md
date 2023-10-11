@@ -39,8 +39,18 @@ This page is created to bring hope and brightness to people about the future wor
 
 ### Credit
   * Main content to take surplus spaces the was taken from the Love Running walkthrough
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
   * The asterisk code was from the Love Running walkthrough
-
+           padding: 0;
+           margin: 0;
+           box-sizing: border-box;
+  * Thanks to the love running walkthrough for the code to make the learn more section background image to fit well on smaller screen was taking from there
+            background-size: cover;
+            background-position: 75%;
+            padding: 20px 10% 0 10%;
+            flex-grow: 1;
 ### Testing
 
   * The website as been tested and the result shows that the website is responsive from smaller screen to larger screen size.
@@ -48,10 +58,8 @@ This page is created to bring hope and brightness to people about the future wor
 * Tested that there is no broken link found in the page
 
 ### Bugs and Fixed bugs
-
-* Discovered that when i deploy my project to Github the learn more section for internal link wasn't working, that was because and #hash tag was missing
-* I tested my HTML code and found that there was no link in the form element which result to an error
-* I tested my css codes in the validator jigsaw.3.org and found that there was an error in my codes, that a font-weight was having percenage
+* I tested my HTML code and found that there was no link in the form element which resulted to an error
+* I tested my css codes in the validator jigsaw.3.org and found that there was an error in my codes, that a font-weight was having percentage
 
 ### Validator Testing
 
