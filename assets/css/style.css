@@ -94,9 +94,14 @@ main {
 
 }
 
-/*See other pages section*/
+/*Gallery section*/
+#question {
+    margin-top: 15px;
+    padding: 9px;
+}
+
 .other-pages {
-    padding: 0 1rem;
+    padding: 0 1em;
 }
 
 .img {
@@ -158,6 +163,7 @@ strong {
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
+    flex-grow: 1;
 
 }
 
@@ -167,6 +173,9 @@ strong {
 }
 
 #learn-more {
+    background-color: rgba(41, 36, 36, 0.7);
+    max-height: 80vh;
+    padding-top: 25px;
     text-align: center;
 }
 
@@ -185,10 +194,7 @@ legend {
 }
 
 #form-bg {
-    background-color: rgba(41, 36, 36, 0.7);
-    height: 57vh;
-    padding-top: 25px;
-    margin-top: 25px;
+    margin-bottom: 46px;
 }
 
 .details {
@@ -225,13 +231,20 @@ footer {
 }
 
 footer a {
-    letter-spacing: 20px;
+    letter-spacing: 38px;
     font-size: larger;
     color: grey;
 }
 
 /*Media query for laeger screen*/
 @media screen and (min-width: 768px) {
+
+    #first-name,
+    #last-name,
+    #email-address {
+        height: 30px;
+        width: 22em;
+    }
 
     #paradise-img-signup {}
 
