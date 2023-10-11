@@ -151,10 +151,13 @@ strong {
 
 /*Sign up section*/
 #paradise-img-signup {
-    background: url('../images/paradise-signup.jpg') no-repeat center / cover;
+    background: url('../images/paradise-signup.jpg');
     height: 100vh;
     width: 100%;
-    padding: 10px;
+    /*make the image fit well on screen*/
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
 
 }
 
@@ -229,6 +232,11 @@ footer a {
 
 /*Media query for laeger screen*/
 @media screen and (min-width: 768px) {
+
+    #paradise-img-signup {}
+
+    #learn-more {}
+
     main {
         margin-top: 120px;
     }
@@ -236,6 +244,7 @@ footer a {
     nav {
         display: flex;
         justify-content: flex-end;
+
     }
 
     #question {
@@ -271,6 +280,7 @@ footer a {
     footer>a {
         margin-right: 4em;
     }
+
 
 }
 
@@ -323,6 +333,11 @@ footer a {
 
     footer>a:hover {
         color: chocolate;
+    }
+
+    #submit:hover {
+        background-color: grey;
+
     }
 
 }
