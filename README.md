@@ -37,7 +37,7 @@ This page is created to bring hope and brightness to people about the future wor
 ### Am I Responsive Results
 
   The website as been tested and the result shows that the website is responsive from smaller screen to larger screen size.
-  ![Screenshot (336)](https://github.com/Elvisthegreat/perfect-world/assets/141064225/371df3f8-53b0-4372-904f-f269acefe94e)
+  ![Screensho](https://github.com/Elvisthegreat/perfect-world/assets/141064225/b7229f14-e0c9-4282-af8b-7f8eaec02f75)
 
 ### Media
   * The images used for this project where taken from jwg.library
