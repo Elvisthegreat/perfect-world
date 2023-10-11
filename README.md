@@ -56,14 +56,13 @@ This page is created to bring hope and brightness to people about the future wor
   *  margin: 0;
   *  box-sizing: border-box;
     <hr>
-  3 . Thanks to the love running walkthrough for the code to make the learn more section background image to fit well on smaller screen was taking from there
-   <br>
+  3 . Thanks to the love running walkthrough for the code to make the learn more section background image to fit well on smaller screen was taking from there <br>
   * background-size: cover; <br>
   * background-position: 75%; <br>
   * padding: 20px 10% 0 10%; <br>
-  * flex-grow: 1; <br>
+  * flex-grow: 1;
+     
 ### Testing
-
   * The website as been tested and the result shows that the website is responsive from smaller screen to larger screen size.
 * Confirmed that all text and words in the page are all easy and readable
 * Tested that there is no broken link found in the page
@@ -92,5 +91,8 @@ This page is created to bring hope and brightness to people about the future wor
   1. log in to GitHub <br>
   2. From the Github page repo on the right side of your screen click on github-pages <br>
   3. A list of all lastest commit will appear, then click on the following commit you want to deploy 
+  
+  ### Acknowledgements
+  A moment of my time to say thanks to my mentor Mo Shami for his time, advice and recommendation for my project...And also thanks to the tutor support team for the extra time given after my deadline day, and also a big hug to the slack team and student.
   
 
