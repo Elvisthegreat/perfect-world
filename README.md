@@ -43,18 +43,20 @@ This page is created to bring hope and brightness to people about the future wor
   * The code inline-block for the nav element where taken from a carried search from google
 
 ### Credit
-  * Main content to take surplus spaces the was taken from the Love Running walkthrough
-    <hr>
+  1. Main content to take surplus spaces the was taken from the Love Running walkthrough
+    <br>
   * min-height: 100vh;
   * display: flex;
   * flex-direction: column;
-  * The asterisk code was from the Love Running walkthrough
     <hr>
+  2. The asterisk code was from the Love Running walkthrough
+    <br>
   *  padding: 0;
-  *   argin: 0;
-  *     box-sizing: border-box;
-  * Thanks to the love running walkthrough for the code to make the learn more section background image to fit well on smaller screen was taking from there
+  *  margin: 0;
+  *  box-sizing: border-box;
     <hr>
+  3 . Thanks to the love running walkthrough for the code to make the learn more section background image to fit well on smaller screen was taking from there
+   <br>
   * background-size: cover;
   * background-position: 75%;
   * padding: 20px 10% 0 10%;
@@ -83,11 +85,11 @@ This page is created to bring hope and brightness to people about the future wor
   * Confirmed with the devtool lighthouse that the performance and accessibilty are good, that the constrast with the background and text are readable.
      ![Screenshot (307)](https://github.com/Elvisthegreat/perfect-world/assets/141064225/48b303c9-6eb0-4464-9b72-2ad2ec06b71b)
 ### Deployment
-*  How to deploy this page
+  How to deploy this page
   <hr>
-  Deploy with github 
-  1. log in to GitHub
-  2. From the Github page repo on the right side of your screen click on github-pages
-  3. A list of all lastest commit will appear, then click on the following commit you want to deploy
-  4. Then the website is display
+  Deploy with github <br>
+  1. log in to GitHub <br>
+  2. From the Github page repo on the right side of your screen click on github-pages <br>
+  3. A list of all lastest commit will appear, then click on the following commit you want to deploy 
+  
 
