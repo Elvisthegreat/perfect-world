@@ -7,12 +7,13 @@ This page is created to bring hope and brightness to people about the future wor
 ## Features
 
 * Header
-       ![Screenshot (303)](https://github.com/Elvisthegreat/perfect-world/assets/141064225/b8900f2a-353b-4fe9-b4b5-08996f4f8fd6)
   * The header display the name of the page and what the website stand for, when click on it takes you back to the home page.
+    ![header](https://github.com/Elvisthegreat/perfect-world/assets/141064225/a2b078ba-f9e5-4e75-b2cd-5cbd0d056996)
 * Navigation
-  * This holds the Home, See other pages & Learn More, when click on it takes you to each section of the website
+  * This holds the Home, Gallery & Learn More, when click on it takes you to each section of the website
+    ![nav](https://github.com/Elvisthegreat/perfect-world/assets/141064225/ead1d8db-6f14-4a53-a97c-de032679b45a)
 * The Gallery
-    ![Screenshot (306)](https://github.com/Elvisthegreat/perfect-world/assets/141064225/5f12ddc4-8d32-46e5-935d-bd2145e95ea0)
+    ![gallerry](https://github.com/Elvisthegreat/perfect-world/assets/141064225/64ec6da9-6824-47dc-b4b6-88f98c3504d4)
   * That section gives you more understand about the page to see more photos and question people ask today
   * To bring hope to the broken and lost one's
 * The Learn More Section
@@ -57,10 +58,10 @@ This page is created to bring hope and brightness to people about the future wor
     <hr>
   3 . Thanks to the love running walkthrough for the code to make the learn more section background image to fit well on smaller screen was taking from there
    <br>
-  * background-size: cover;
-  * background-position: 75%;
-  * padding: 20px 10% 0 10%;
-  * flex-grow: 1;
+  * background-size: cover; <br>
+  * background-position: 75%; <br>
+  * padding: 20px 10% 0 10%; <br>
+  * flex-grow: 1; <br>
 ### Testing
 
   * The website as been tested and the result shows that the website is responsive from smaller screen to larger screen size.
