@@ -57,7 +57,8 @@ This page is created to bring hope and brightness to people about the future wor
 
 * HTML
   * Tested my HTML with the W3C Markup Validation Service and found no more error
-    ![Screenshot (330)](https://github.com/Elvisthegreat/perfect-world/assets/141064225/26f267d5-7ccd-491b-b321-1f7f1140f7bb)
+    ![Screen](https://github.com/Elvisthegreat/perfect-world/assets/141064225/ae1b5522-55cf-43aa-b7a6-198ed0824105)
+
 * CSS
   * Tested my HTML with the W3C CSS Validation Service and found no more error
     ![schot](https://github.com/Elvisthegreat/perfect-world/assets/141064225/1dbd9a27-1887-4782-b545-6f505977534d)
