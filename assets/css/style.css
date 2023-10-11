@@ -66,6 +66,10 @@ nav {
     margin-top: 1em;
 }
 
+#underline-home {
+    border-bottom: 1px solid grey;
+}
+
 #links>li {
     font-size: 15px;
     font-weight: 90;
