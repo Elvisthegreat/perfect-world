@@ -39,17 +39,17 @@ This page is created to bring hope and brightness to people about the future wor
 
 ### Credit
   * Main content to take surplus spaces the was taken from the Love Running walkthrough
-           * min-height: 100vh;
-           * display: flex;
-           * flex-direction: column;
+           *  min-height: 100vh;
+           *  display: flex;
+           *  flex-direction: column;
   * The asterisk code was from the Love Running walkthrough
-         *  padding: 0;
-         *  margin: 0;
-         *  box-sizing: border-box;
+         *   padding: 0;
+         *   margin: 0;
+         *   box-sizing: border-box;
   * Thanks to the love running walkthrough for the code to make the learn more section background image to fit well on smaller screen was taking from there
-          *  background-size: cover;
-          *  background-position: 75%;
-          *  padding: 20px 10% 0 10%;
+          *   background-size: cover;
+          *   background-position: 75%;
+          *   padding: 20px 10% 0 10%;
           *   flex-grow: 1;
 ### Testing
 
