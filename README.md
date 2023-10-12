@@ -36,18 +36,18 @@ This page is created to bring hope and brightness to people about the future wor
     * Is to reach out and bring hope to as many people out there no matter what age, to let many know that there is hope and a new world for everyone
    ### User Goal and User Requrements and Expectations
     * Want to feel the flexibility of the web <br>
-    * make sure so called links are clickable and no broken link <br>
+    * make sure all links are clickable and no broken links found <br>
     * Grammars used for the the page are easy to understand <br>
-    * constrast with with background written are all readable
+    * Constrast with with background written are all readable
     * Quick and easily find relevant informations
     * Functions work as expected
    ### Site Owner Goal
     * Making sure to keep improving on the project and correct any further error found in the page
-    * Make any changes needed like things deficult for user to interact with
+    * Make any changes needed like things defficult for user to interact with
   
     # User Experience
-  * Make sure the website is easy or pleasing it is to use
-  * Website created in a way it doesn't degrades the user experience so people will simply stay away
+  * Make sure the website is easy or pleasing to use
+  * Website created in a way it doesn't degrades the user experience so people won't simply stay away
     # Design Choices
     This webpage was designed base on my faith and christianity believes. knowing that there is a God who will bring and end to this world turmoil
     # Colors
