@@ -4,17 +4,21 @@ Welcome to my website called A Perfect World Is Near. ![A perfect world](https:/
   <https://elvisthegreat.github.io/perfect-world/>
 This page is created to bring hope and brightness to people about the future world that is new and near. For today we are living in a broken world full of pain, sorrow and hate...but a new world is near.You can sign up to learn more by filling in your form and one of jwg.org member will get back to you to teach you more about the New World that is Near! No money needed, no payment, it all free.
 # Table of Content
-  [1.Project and User Goal](#Project-and-user-Goal)
-  
+  [1.Project and User Goal](#Project-and-user-Goal- and-User-Requrements-and-Expectations)
+  [2.User Experience](#User-Experience)
+  [3.Design](#Design-Choices)
+     [a.colors](#Colors)
+     [b.Fonts](#Fonts)
+     [c.Structure](#Structure)
 ## Features
 
-* Header
+##### Header
   * The header display the name of the page and what the website stand for, when click on it takes you back to the home page.
     ![header](https://github.com/Elvisthegreat/perfect-world/assets/141064225/a2b078ba-f9e5-4e75-b2cd-5cbd0d056996)
-* Navigation
+##### Navigation
   * This holds the Home, Gallery & Learn More, when click on it takes you to each section of the website
     ![nav](https://github.com/Elvisthegreat/perfect-world/assets/141064225/ead1d8db-6f14-4a53-a97c-de032679b45a)
-* The Gallery
+##### The Gallery
     ![gallerry](https://github.com/Elvisthegreat/perfect-world/assets/141064225/64ec6da9-6824-47dc-b4b6-88f98c3504d4)
   * That section gives you more understand about the page to see more photos and question people ask today
   * To bring hope to the broken and lost one's
@@ -28,13 +32,31 @@ This page is created to bring hope and brightness to people about the future wor
   * 
    # Project and User Goal
    ### Project Goal
-    a. Is to reach out and bring hope to as many people out there no matter what age, to let many know that there is hope and a new world for everyone
-   ### User Goal
-     a. Want to feel the flexibility of the web <br>
-     b. make sure so called links are clickable and no broken link <br>
-     c. Grammars used for the the page are easy to understand <br>
-     d. constrast with with background written are all readable
-
+    * Is to reach out and bring hope to as many people out there no matter what age, to let many know that there is hope and a new world for everyone
+   ### User Goal and User Requrements and Expectations
+    * Want to feel the flexibility of the web <br>
+    * make sure so called links are clickable and no broken link <br>
+    * Grammars used for the the page are easy to understand <br>
+    * constrast with with background written are all readable
+    * Quick and easily find relevant informations
+    * Functions work as expected
+   ### Site Owner Goal
+    * Making sure to keep improving on the project and correct any further error found in the page
+    * Make any changes needed like things deficult for user to interact with
+  
+    # User Experience
+  * Make sure the website is easy or pleasing it is to use
+  * Website created in a way it doesn't degrades the user experience so people will simply stay away
+    # Design Choices
+    This webpage was designed base on my faith and christianity believes. knowing that there is a God who will bring and end to this world turmoil
+    # Colors used for this web page are grey, white and green but mostly used is Grey
+    # Fonts
+     'Bakkak One', was used for all the headings 'Cursive' as fallback font and 'Lato' was used for the body and 'san-serif' as fallback
+    # Structure
+     This page was stuctured based on my own personal idea, in a way its might be easy for the user to understand and to find things easily Home, Gallery and Learn More section
+    * A home section where lastest update could be posted
+    * Gallery section where more images could be added
+    * Learn More section where someone could sign up if interested with what the page could teach 
 ## Languages Used For This Project
 
 * HTML5
