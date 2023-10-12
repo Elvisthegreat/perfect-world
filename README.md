@@ -33,14 +33,14 @@ This page is created to bring hope and brightness to people about the future wor
   * 
    # Project Goal and User Goal and User Requrements and Expectations
    ### Project Goal 
-    * Is to reach out and bring hope to as many people out there no matter what age, to let many know that there is hope and a new world for everyone
+   *  Is to reach out and bring hope to as many people out there no matter what age, to let many know that there is hope and a new world for everyone
    ### User Goal and User Requrements and Expectations
-    * Want to feel the flexibility of the web <br>
-    * make sure all links are clickable and no broken links found <br>
-    * Grammars used for the the page are easy to understand <br>
-    * Constrast with with background written are all readable
-    * Quick and easily find relevant informations
-    * Functions work as expected
+   *  Want to feel the flexibility of the web <br>
+   *  make sure all links are clickable and no broken links found <br>
+   *  Grammars used for the the page are easy to understand <br>
+   *  Constrast with with background written are all readable
+   *  Quick and easily find relevant informations
+   *  Functions work as expected
    ### Site Owner Goal
     * Making sure to keep improving on the project and correct any further error found in the page
     * Make any changes needed like things defficult for user to interact with
