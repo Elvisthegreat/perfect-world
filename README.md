@@ -4,8 +4,8 @@ Welcome to my website called A Perfect World Is Near. ![A perfect world](https:/
   <https://elvisthegreat.github.io/perfect-world/>
 This page is created to bring hope and brightness to people about the future world that is new and near. For today we are living in a broken world full of pain, sorrow and hate...but a new world is near.You can sign up to learn more by filling in your form and one of jwg.org member will get back to you to teach you more about the New World that is Near! No money needed, no payment, it all free.
 # Table of Content
-  [Project Goal](#user-Goal)U 
-  1. User
+  [1.Project and User Goal](#Project-and-user-Goal)
+  
 ## Features
 
 * Header
@@ -26,7 +26,14 @@ This page is created to bring hope and brightness to people about the future wor
      ![Socia](https://github.com/Elvisthegreat/perfect-world/assets/141064225/52a3544a-d199-49b0-88ab-da70e2711356)
   * This takes user to our social platform to help then see all of our daily post.
   * 
-   # User-Goal
+   # Project and User Goal
+   ### Project Goal
+    a. Is to reach out and bring hope to as many people out there no matter what age, to let many know that there is hope and a new world for everyone
+   ### User Goal
+     a. Want to feel the flexibility of the web <br>
+     b. make sure so called links are clickable and no broken link <br>
+     c. Grammars used for the the page are easy to understand <br>
+     d. constrast with with background written are all readable
 
 ## Languages Used For This Project
 
