@@ -101,11 +101,13 @@ main {
 /*Style for the home paragraph*/
 .about-the-world {
     padding: 8px 10px 5px 17px;
-    margin-bottom: 1em;
+    margin-top: 2em;
+
 }
 
 .about-the-world p {
     margin-bottom: 1em;
+    letter-spacing: 2px;
 }
 
 #my-studies {
@@ -114,6 +116,7 @@ main {
 
 #my-studies>li {
     margin-bottom: 1em;
+    letter-spacing: 1px;
 }
 
 /*Gallery section*/
