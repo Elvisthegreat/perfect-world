@@ -43,12 +43,12 @@ This page is created to bring hope and brightness to people about the future wor
 
 ##### The Learn More Section
 
-    ![scn](https://github.com/Elvisthegreat/perfect-world/assets/141064225/b5e43c96-b0c2-472a-a856-65d6e663094a)
+   ![scn](https://github.com/Elvisthegreat/perfect-world/assets/141064225/b5e43c96-b0c2-472a-a856-65d6e663094a)
 * This allows you to freely sign up to get in touch with one of the members to learn more
 
 ###### The Social Media Section
 
-     ![Socia](https://github.com/Elvisthegreat/perfect-world/assets/141064225/52a3544a-d199-49b0-88ab-da70e2711356)
+   ![Socia](https://github.com/Elvisthegreat/perfect-world/assets/141064225/52a3544a-d199-49b0-88ab-da70e2711356)
 * This takes user to our social platform to help then see all of our daily post.
 *
 
@@ -84,11 +84,11 @@ This page is created to bring hope and brightness to people about the future wor
 
 # Colors
 
-    Colors used for this web page are grey, white and green but mostly used, is Grey
+  Colors used for this web page are grey, white and green but mostly used, is Grey
 
 # Fonts
 
-     'Bakkak One', was used for all the headings 'Cursive' as fallback font and 'Lato' was used for the body and 'san-serif' as fallback
+  'Bakkak One', was used for all the headings 'Cursive' as fallback font and 'Lato' was used for the body and 'san-serif' as fallback
 
 # Structure
 
