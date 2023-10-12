@@ -80,7 +80,7 @@ This page is created to bring hope and brightness to people about the future wor
 
 # Design Choices
 
-    This webpage was designed base on my faith and christianity believes. knowing that there is a God who will bring and end to this world turmoil
+ This webpage was designed base on my faith and christianity believes. knowing that there is a God who will bring and end to this world turmoil
 
 # Colors
 
@@ -92,7 +92,7 @@ This page is created to bring hope and brightness to people about the future wor
 
 # Structure
 
-     This page was stuctured based on my own personal idea, in a way its might be easy for the user to understand and to find things easily Home, Gallery and Learn More section
+  This page was stuctured based on my own personal idea, in a way its might be easy for the user to understand and to find things easily Home, Gallery and Learn More section
   * A home section where lastest update could be posted
   * Gallery section where more images could be added
   * Learn More section where someone could sign up if interested with what the page could teach
