@@ -20,14 +20,14 @@ This page is created to bring hope and brightness to people about the future wor
   * This holds the Home, Gallery & Learn More, when click on it takes you to each section of the website
     ![nav](https://github.com/Elvisthegreat/perfect-world/assets/141064225/ead1d8db-6f14-4a53-a97c-de032679b45a)
 ##### The Gallery
-    ![gallerry](https://github.com/Elvisthegreat/perfect-world/assets/141064225/64ec6da9-6824-47dc-b4b6-88f98c3504d4)
+  ![gallery](https://github.com/Elvisthegreat/perfect-world/assets/141064225/c7484b9d-78a2-43e4-8ea9-6cfc91b397ed)
   * That section gives you more understand about the page to see more photos and question people ask today
   * To bring hope to the broken and lost one's
 * The Learn More Section
     ![scn](https://github.com/Elvisthegreat/perfect-world/assets/141064225/b5e43c96-b0c2-472a-a856-65d6e663094a)
   * This allows you to freely sign up to learn more
   * And a member of one of jehovah witnesses will get back to you by filling all the required data
-* The Social Media Section
+##### The Social Media Section
      ![Socia](https://github.com/Elvisthegreat/perfect-world/assets/141064225/52a3544a-d199-49b0-88ab-da70e2711356)
   * This takes user to our social platform to help then see all of our daily post.
   * 
