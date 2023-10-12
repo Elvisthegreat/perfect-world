@@ -1,15 +1,16 @@
+
 # A Perfect World Is Near
 
 Welcome to my website called A Perfect World Is Near. ![A perfect world](https://github.com/Elvisthegreat/perfect-world/assets/141064225/7d44b9f5-1de2-4dc8-b024-9bfae2fa6d78)
   <https://elvisthegreat.github.io/perfect-world/>
 This page is created to bring hope and brightness to people about the future world that is new and near. For today we are living in a broken world full of pain, sorrow and hate...but a new world is near.You can sign up to learn more by filling in your form and one of jwg.org member will get back to you to teach you more about the New World that is Near! No money needed, no payment, it all free.
 # Table of Content
-  [1.Project and User Goal](#Project-and-user-Goal- and-User-Requrements-and-Expectations)
-  [2.User Experience](#User-Experience)
-  [3.Design](#Design-Choices)
-     [a.colors](#Colors)
-     [b.Fonts](#Fonts)
-     [c.Structure](#Structure)
+  [1.Project and User Goal](#Project-Goal-and-User-Goal-and-User-Requrements-and-Expectations) <br>
+  [2.User Experience](#User-Experience) <br>
+  [3.Design](#Design-Choices) <br>
+     [a.colors](#Colors) <br>
+     [b.Fonts](#Fonts) <br>
+     [c.Structure](#Structure) <br>
 ## Features
 
 ##### Header
@@ -30,8 +31,8 @@ This page is created to bring hope and brightness to people about the future wor
      ![Socia](https://github.com/Elvisthegreat/perfect-world/assets/141064225/52a3544a-d199-49b0-88ab-da70e2711356)
   * This takes user to our social platform to help then see all of our daily post.
   * 
-   # Project and User Goal
-   ### Project Goal
+   # Project Goal and User Goal and User Requrements and Expectations
+   ### Project Goal 
     * Is to reach out and bring hope to as many people out there no matter what age, to let many know that there is hope and a new world for everyone
    ### User Goal and User Requrements and Expectations
     * Want to feel the flexibility of the web <br>
@@ -49,7 +50,8 @@ This page is created to bring hope and brightness to people about the future wor
   * Website created in a way it doesn't degrades the user experience so people will simply stay away
     # Design Choices
     This webpage was designed base on my faith and christianity believes. knowing that there is a God who will bring and end to this world turmoil
-    # Colors used for this web page are grey, white and green but mostly used is Grey
+    # Colors
+    Colors used for this web page are grey, white and green but mostly used, is Grey
     # Fonts
      'Bakkak One', was used for all the headings 'Cursive' as fallback font and 'Lato' was used for the body and 'san-serif' as fallback
     # Structure
