@@ -17,9 +17,9 @@ This page is created to bring hope and brightness to people about the future wor
    [7.Credit](#Credit) <br>
    [8.Bugs](#Bugs) <br>
    [9.Testing](#Testing) <br>
-   [10.Accessibility](#Accessibility)
-   [11.Deployment](#Deyployment)
-   [12.Acknowledgment](#Acknowledgment)
+   [10.Accessibility](#Accessibility) <br>
+   [11.Deployment](#Deyployment) <br>
+   [12.Acknowledgements](#Acknowledgements)
    
 ## Features
 
