@@ -11,6 +11,16 @@ This page is created to bring hope and brightness to people about the future wor
      [a.colors](#Colors) <br>
      [b.Fonts](#Fonts) <br>
      [c.Structure](#Structure) <br>
+   [4.Languages Used For This Project](#languages-Used-For-This-Project)  <br>
+   [5.Am I Responsive Results](#Am-I-Responsive-Results) <br>
+   [6.Media](#media) <br>
+   [7.Credit](#Credit) <br>
+   [8.Bugs](#Bugs) <br>
+   [9.Testing](#Testing) <br>
+   [10.Accessibility](#Accessibility)
+   [11.Deployment](#Deyployment)
+   [12.Acknowledgment](#Acknowledgment)
+   
 ## Features
 
 ##### Header
@@ -42,11 +52,11 @@ This page is created to bring hope and brightness to people about the future wor
    *  Quick and easily find relevant informations
    *  Functions work as expected
    ### Site Owner Goal
-    * Making sure to keep improving on the project and correct any further error found in the page
-    * Make any changes needed like things defficult for user to interact with
-  
-    # User Experience
-  * Make sure the website is easy or pleasing to use
+   * Make sure the website is easy or pleasing to use
+   * Making sure to keep improving on the project and correct any further error found in the page
+   * Make any changes needed like things defficult for user to interact with
+     # User Experience
+  * Make sure it a place user will like to return to
   * Website created in a way it doesn't degrades the user experience so people won't simply stay away
     # Design Choices
     This webpage was designed base on my faith and christianity believes. knowing that there is a God who will bring and end to this world turmoil
@@ -59,26 +69,24 @@ This page is created to bring hope and brightness to people about the future wor
     * A home section where lastest update could be posted
     * Gallery section where more images could be added
     * Learn More section where someone could sign up if interested with what the page could teach 
-## Languages Used For This Project
+# Languages Used For This Project
 
 * HTML5
 * CSS
 * JAVASCRIPT
 * FONT ICON
 * FAVICON
-### Source of favicon for this web
- * favicon.io
 
-### Am I Responsive Results
+# Am I Responsive Results
 
   The website as been tested and the result shows that the website is responsive from smaller screen to larger screen size.
   ![Screensho](https://github.com/Elvisthegreat/perfect-world/assets/141064225/b7229f14-e0c9-4282-af8b-7f8eaec02f75)
 
-### Media
+# Media
   * The images used for this project where taken from jwg.library
   * The code inline-block for the nav element where taken from a carried search from google
 
-### Credit
+# Credit
   1. Main content to take surplus spaces the was taken from the Love Running walkthrough
     <br>
   * min-height: 100vh;
@@ -96,15 +104,15 @@ This page is created to bring hope and brightness to people about the future wor
   * background-position: 75%; <br>
   * padding: 20px 10% 0 10%; <br>
   * flex-grow: 1;
+
+# Bugs 
+* I tested my HTML code and found that there was no link in the form element which resulted to an error
+* I tested my css codes in the validator jigsaw.3.org and found that there was an error in my codes, that a font-weight was having percentage
      
-### Testing
+# Testing
   * The website as been tested and the result shows that the website is responsive from smaller screen to larger screen size.
 * Confirmed that all text and words in the page are all easy and readable
 * Tested that there is no broken link found in the page
-
-### Bugs and Fixed bugs
-* I tested my HTML code and found that there was no link in the form element which resulted to an error
-* I tested my css codes in the validator jigsaw.3.org and found that there was an error in my codes, that a font-weight was having percentage
 
 ### Validator Testing
 
@@ -116,16 +124,17 @@ This page is created to bring hope and brightness to people about the future wor
   * Tested my HTML with the W3C CSS Validation Service and found no more error
     ![schot](https://github.com/Elvisthegreat/perfect-world/assets/141064225/1dbd9a27-1887-4782-b545-6f505977534d)
 
-* Accessibility
+# Accessibility
   * Confirmed with the devtool lighthouse that the performance and accessibilty are good, that the constrast with the background and text are readable.
      ![Screenshot (307)](https://github.com/Elvisthegreat/perfect-world/assets/141064225/48b303c9-6eb0-4464-9b72-2ad2ec06b71b)
-### Deployment
-  How to deploy this page
-  <hr>
-  Deploy with github <br>
-  1. log in to GitHub <br>
-  2. From the Github page repo on the right side of your screen click on github-pages <br>
-  3. A list of all lastest commit will appear, then click on the following commit you want to deploy 
+# Deployment
+ This website was deploy with GitHub
+   <https://elvisthegreat.github.io/perfect-world/>
+ #### How to deploy with github <br>
+  1. In the GitHub repository <br>
+  2. Scroll halfway down, on the right side of your screen<br>
+  3. Click on github-pages
+  4. A list of all lastest commit will appear, then click on the following commit you want to deploy 
   
   ### Acknowledgements
   A moment of my time to say thanks to my mentor Mo Shami for his time, advice and recommendation for my project...And also thanks to the tutor support team for the extra time given after my deadline day, and also a big hug to the slack team and student.
