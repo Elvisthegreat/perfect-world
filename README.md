@@ -18,7 +18,7 @@ This page is created to bring hope and brightness to people about the future wor
    [8.Bugs](#Bugs) <br>
    [9.Testing](#Testing) <br>
    [10.Accessibility](#Accessibility) <br>
-   [11.Deployment](#Deyployment) <br>
+   [11.Deployment](#Deployment) <br>
    [12.Acknowledgements](#Acknowledgements)
    
 ## Features
@@ -136,7 +136,7 @@ This page is created to bring hope and brightness to people about the future wor
   3. Click on github-pages
   4. A list of all lastest commit will appear, then click on the following commit you want to deploy 
   
-  ### Acknowledgements
+  # Acknowledgements
   A moment of my time to say thanks to my mentor Mo Shami for his time, advice and recommendation for my project...And also thanks to the tutor support team for the extra time given after my deadline day, and also a big hug to the slack team and student.
   
 
