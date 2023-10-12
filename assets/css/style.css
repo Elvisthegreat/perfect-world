@@ -98,12 +98,22 @@ main {
 
 }
 
+/*Style for the home paragraph*/
 .about-the-world {
-    padding: 5px 10px 5px 10px;
+    padding: 8px 10px 5px 17px;
+    margin-bottom: 1em;
+}
+
+.about-the-world p {
+    margin-bottom: 1em;
 }
 
 #my-studies {
-    padding: 10px;
+    padding: 17px;
+}
+
+#my-studies>li {
+    margin-bottom: 1em;
 }
 
 /*Gallery section*/
@@ -323,10 +333,14 @@ footer a {
         height: 60vh;
     }
 
+    #imagination {
+        text-align: center;
+    }
+
     #loved-one {
         height: 60vh;
-
     }
+
 }
 
 @media screen and (min-width: 1200px) {
@@ -345,6 +359,11 @@ footer a {
 
     .img {
         height: 100vh;
+    }
+
+
+    #imagination {
+        text-align: center;
     }
 
     #loved-one {
