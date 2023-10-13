@@ -8,7 +8,7 @@ This page is created to bring hope and brightness to people about the future wor
 
   [1.Project and User Goal](#project-goal-and-user-goal-and-user-requrements-and-expectations) <br>
   [2.User Experience](#user-experience) <br>
-  [3.User Stories](#User-Stories)
+  [3.User Stories](#User-Stories) <br>
   [4.Design](#design-choices) <br>
      [a.colors](#colors) <br>
      [b.Fonts](#fonts) <br>
