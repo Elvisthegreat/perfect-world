@@ -80,7 +80,7 @@ This page is created to bring hope and brightness to people about the future wor
 * Website created in a way it doesn't degrades the user experience so people won't simply stay away
 
 # User Stories
-  #### First Users
+  #### First Time Users
   * I want to know what this site is for
   * I want to know why this site was created
   * I want to know if what if is something i can relate to
