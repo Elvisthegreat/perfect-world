@@ -98,16 +98,30 @@ main {
 
 }
 
+/*Style for the paragraph images*/
+#my-past-life {
+    display: flex;
+    justify-content: center;
+}
+
+#img-for-p {
+    max-height: 300px;
+    width: 280px;
+    border-radius: 50%;
+    padding-right: 9px;
+
+}
+
 /*Style for the home paragraph*/
 .about-the-world {
     padding: 8px 10px 5px 17px;
     margin-top: 2em;
+    letter-spacing: 1px;
 
 }
 
 .about-the-world p {
     margin-bottom: 1em;
-    letter-spacing: 2px;
 }
 
 #my-studies {
@@ -116,7 +130,6 @@ main {
 
 #my-studies>li {
     margin-bottom: 1em;
-    letter-spacing: 1px;
 }
 
 /*Gallery section*/
