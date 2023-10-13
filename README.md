@@ -8,19 +8,20 @@ This page is created to bring hope and brightness to people about the future wor
 
   [1.Project and User Goal](#project-goal-and-user-goal-and-user-requrements-and-expectations) <br>
   [2.User Experience](#user-experience) <br>
-  [3.Design](#design-choices) <br>
+  [3.User Stories](#User-Stories)
+  [4.Design](#design-choices) <br>
      [a.colors](#colors) <br>
      [b.Fonts](#fonts) <br>
      [c.Structure](#structure) <br>
-   [4.Languages Used For This Project](#languages-used-for-this-project)  <br>
-   [5.Am I Responsive Results](#am-i-responsive-results) <br>
-   [6.Media](#media) <br>
-   [7.Credit](#credit) <br>
-   [8.Bugs](#bugs) <br>
-   [9.Testing](#testing) <br>
-   [10.Accessibility](#accessibility) <br>
-   [11.Deployment](#deployment) <br>
-   [12.Acknowledgements](#acknowledgements)
+   [5.Languages Used For This Project](#languages-used-for-this-project)  <br>
+   [6.Am I Responsive Results](#am-i-responsive-results) <br>
+   [7.Media](#media) <br>
+   [8.Credit](#credit) <br>
+   [9.Bugs](#bugs) <br>
+   [10.Testing](#testing) <br>
+   [11.Accessibility](#accessibility) <br>
+   [12.Deployment](#deployment) <br>
+   [13.Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -78,6 +79,19 @@ This page is created to bring hope and brightness to people about the future wor
 * Make sure it a place user will like to return to
 * Website created in a way it doesn't degrades the user experience so people won't simply stay away
 
+# User Stories
+  #### First Users
+  * I want to know what this site is for
+  * I want to know why this site was created
+  * I want to know if what if is something i can relate to
+  * I want to know if is something useful
+  * If it useful, i want to know how to get in touch
+  #### Returning Users
+   * I want to know the main purpose of having the confident to create this
+   * I want to know if this is true
+   * I want to know if everything this page talks about can really be true
+   * I want to know who you wrote this page about and his real name
+   * Can this really be possible?
 # Design Choices
 
  This webpage was designed base on my faith and christianity believes. knowing that there is a God who will bring and end to this world turmoil
@@ -177,6 +191,23 @@ This page is created to bring hope and brightness to people about the future wor
   2. Scroll halfway down, on the right side of your screen<br>
   3. Click on github-pages
   4. A list of all lastest commit will appear, then click on the following commit you want to deploy
+
+#### For the source 
+1.select Branch: master <br>
+2.After the webpage refreshes automaticaly you will se a ribbon on the top saying: Your site is published
+
+##### You can for fork the repository by following these steps:
+1.Go to the GitHub repository <br>
+2.Click on Fork button in upper right hand corner <br>
+
+##### To clone the repository by following these steps:
+1.Go to the GitHub repository <br>
+2.Locate the Code button above the list of files and click it <br>
+3.Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard 
+Open Git Bash <br>
+4.Change the current working directory to the one where you want the cloned directory <br>
+5.Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY) <br>
+6.Press Enter to create your local clone. <br>
   
 # Acknowledgements
 
