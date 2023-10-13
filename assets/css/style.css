@@ -275,6 +275,7 @@ footer a {
     color: grey;
 }
 
+/*media query for smaller screen*/
 @media screen and (min-width: 340px) {
 
     main {
@@ -282,6 +283,7 @@ footer a {
     }
 }
 
+/*media query for smaller screen*/
 @media screen and (min-width: 390px) {
 
     main {
@@ -289,6 +291,7 @@ footer a {
     }
 }
 
+/*media query for smaller screen*/
 @media screen and (min-width: 600px) {
 
     main {
