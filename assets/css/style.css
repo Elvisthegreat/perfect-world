@@ -275,7 +275,28 @@ footer a {
     color: grey;
 }
 
-/*Media query for laeger screen*/
+@media screen and (min-width: 340px) {
+
+    main {
+        margin-top: 120px;
+    }
+}
+
+@media screen and (min-width: 390px) {
+
+    main {
+        margin-top: 120px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+
+    main {
+        margin-top: 120px;
+    }
+}
+
+/*Media query for larger screen*/
 @media screen and (min-width: 768px) {
 
     #first-name,
@@ -363,6 +384,13 @@ footer a {
 
     #img-paradise {
         min-height: 100vh;
+    }
+
+    /*Style for the paragraph images*/
+    #my-past-life {
+        display: flex;
+        justify-content: center;
+
     }
 
     #suffering {
