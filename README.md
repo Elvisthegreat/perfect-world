@@ -83,7 +83,7 @@ This page is created to bring hope and brightness to people about the future wor
   #### First Time Users
   * I want to know what this site is for
   * I want to know why this site was created
-  * I want to know if what if is something i can relate to
+  * I want to know if it is something i can relate to
   * I want to know if is something useful
   * If it useful, i want to know how to get in touch
   #### Returning Users
@@ -206,7 +206,7 @@ This page is created to bring hope and brightness to people about the future wor
 3.Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard 
 Open Git Bash <br>
 4.Change the current working directory to the one where you want the cloned directory <br>
-5.Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY) <br>
+5.Type git clone and paste the URL from the clipboard <br>
 6.Press Enter to create your local clone. <br>
   
 # Acknowledgements
