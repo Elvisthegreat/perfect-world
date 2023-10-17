@@ -185,7 +185,12 @@ main {
     padding: 2px;
 }
 
+#heading-four {
+    text-align: center;
+}
+
 #text-paragraph {
+    text-align: center;
     color: grey;
     font-size: 15px;
     padding: 5px;
