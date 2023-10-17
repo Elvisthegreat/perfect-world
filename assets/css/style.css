@@ -214,7 +214,8 @@ strong {
 #learn-more {
     background-color: rgba(41, 36, 36, 0.7);
     max-height: 80vh;
-    padding-top: 25px;
+    padding-top: 5px;
+    margin: 5px;
     text-align: center;
 }
 
@@ -233,7 +234,7 @@ legend {
 }
 
 #form-bg {
-    margin-bottom: 46px;
+    padding-bottom: 45px;
 }
 
 .details {
@@ -350,7 +351,11 @@ footer {
 
     }
 
-    #social-icons a {
+    #learn-more {
+        margin: 75px 0 75px 0;
+    }
+
+    #social-icons li {
         display: flex;
         justify-content: center;
     }
@@ -377,6 +382,10 @@ footer {
 
     #loved-one {
         height: 60vh;
+    }
+
+    #learn-more {
+        margin: 75px 0 75px 0;
     }
 
 }
@@ -414,6 +423,10 @@ footer {
     #loved-one {
         height: 100vh;
 
+    }
+
+    #learn-more {
+        margin: 75px 0 75px 0;
     }
 
     nav ul a:hover {
