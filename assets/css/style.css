@@ -142,6 +142,10 @@ main {
     padding: 0 1em;
 }
 
+.other-pages li {
+    list-style-type: none;
+}
+
 .img {
     /*Image from jwg.org*/
     background: url('../images/the-earth.jpg') no-repeat center / cover;
