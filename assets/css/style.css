@@ -267,11 +267,20 @@ footer {
     color: grey;
     font-size: 18px;
     font-weight: 90;
+    text-align: center;
 }
 
-footer a {
-    letter-spacing: 24px;
-    font-size: larger;
+#social-icons {
+    text-align: center;
+    padding: 10px 0 10px 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#social-icons i {
+    font-size: 140%;
     color: grey;
 }
 
@@ -341,21 +350,10 @@ footer a {
 
     }
 
-
-
-    footer {
+    #social-icons a {
         display: flex;
         justify-content: center;
     }
-
-    footer>span {
-        margin-right: 3em;
-    }
-
-    footer>a {
-        margin-right: 4em;
-    }
-
 
 }
 
@@ -422,7 +420,7 @@ footer a {
         border-bottom: 1px solid grey;
     }
 
-    footer>a:hover {
+    #social-icons a>:hover {
         color: chocolate;
     }
 
